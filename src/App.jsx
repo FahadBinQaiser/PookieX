@@ -1,6 +1,11 @@
 import React from "react";
+import HeroSection from "./components/heroSection/HeroSection";
 function App() {
-  return <></>;
+  return (
+    <>
+      <HeroSection />
+    </>
+  );
 }
 
 export default App;
