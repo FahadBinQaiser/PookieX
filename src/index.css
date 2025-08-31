@@ -1,1 +1,26 @@
 @import "tailwindcss";
+
+/* GT America Font Faces */
+@font-face {
+  font-family: "GT America";
+  src: url("../public/fonts/GT-America/GT-America-Expanded-Bold-Trial.otf")
+    format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GT America";
+  src: url("../public/fonts/GT-America/GT-America-Extended-Bold-Trial.otf")
+    format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GT America";
+  src: url("../public/fonts/GT-America/GT-America-Standard-Bold-Trial.otf")
+    format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
